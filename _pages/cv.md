@@ -58,11 +58,13 @@ Vancouver, BC, Canada · ✉️ [esmaeil_izadi@sfu.ca](mailto:esmaeil_izadi@sfu.
 
 **Working papers**
 - **Nation-State Building** (with Chris Bidner) — [paper](/files/papers/nation-state-building.pdf)
-- **Reinforcement Learning for Consumer Influence: Pricing, Advertising, and Network Effects** (with Ehsan Ardjmand, Ali Tavasoli, Behnaz Moradi-Jamei, Heman Shakeri) — [paper](/files/papers/rl_network_pricing.pdf)
 
-**Work in progress**
+**Publications**
+- **Graph-Embedded Reinforcement Learning for Dynamic Pricing under Network Effects** (with Ehsan Ardjmand, Ali Tavasoli, Behnaz Moradi-Jamei, Heman Shakeri) — [paper](/files/papers/rl-network.pdf)
+
+**Works in progress**
 - Large-scale Urban Projects, Housing Market and Neighborhood Sorting  
-- Energy-Sector Projection Spread in IAMs: A Variance Decomposition Approach
+- Energy-Economy Projections Spread in IAMs: A Variance Decomposition Approach
 
 ### Teaching
 **Guest lecturer**
